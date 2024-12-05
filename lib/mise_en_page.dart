@@ -202,7 +202,6 @@ class _MyHomePageState extends State<MiseEnPage> {
                       height: 800,
                     ),
                   ),
-                  // Le bouton est maintenant centré
                   ElevatedButton(
                     onPressed: () {
                       Navigator.push(
